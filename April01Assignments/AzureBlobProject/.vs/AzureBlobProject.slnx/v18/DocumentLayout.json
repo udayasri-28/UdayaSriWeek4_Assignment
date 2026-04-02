@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day60Projects\\AzureBlobProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3628F13F-667E-40FB-8097-234AC8E26C79}|AzureBlobProject\\AzureBlobProject.csproj|c:\\users\\udays\\onedrive\\desktop\\capgemini\\day60projects\\azureblobproject\\azureblobproject\\controllers\\blobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3628F13F-667E-40FB-8097-234AC8E26C79}|AzureBlobProject\\AzureBlobProject.csproj|solutionrelative:azureblobproject\\controllers\\blobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day60Projects\\AzureBlobProject\\AzureBlobProject\\Views\\Container\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AzureBlobProject\\Views\\Container\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day60Projects\\AzureBlobProject\\AzureBlobProject\\Views\\Blob\\AddFile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AzureBlobProject\\Views\\Blob\\AddFile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day60Projects\\AzureBlobProject\\AzureBlobProject\\Views\\Blob\\Manage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AzureBlobProject\\Views\\Blob\\Manage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3628F13F-667E-40FB-8097-234AC8E26C79}|AzureBlobProject\\AzureBlobProject.csproj|c:\\users\\udays\\onedrive\\desktop\\capgemini\\day60projects\\azureblobproject\\azureblobproject\\services\\blobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3628F13F-667E-40FB-8097-234AC8E26C79}|AzureBlobProject\\AzureBlobProject.csproj|solutionrelative:azureblobproject\\services\\blobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3628F13F-667E-40FB-8097-234AC8E26C79}|AzureBlobProject\\AzureBlobProject.csproj|c:\\users\\udays\\onedrive\\desktop\\capgemini\\day60projects\\azureblobproject\\azureblobproject\\services\\iblobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3628F13F-667E-40FB-8097-234AC8E26C79}|AzureBlobProject\\AzureBlobProject.csproj|solutionrelative:azureblobproject\\services\\iblobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3628F13F-667E-40FB-8097-234AC8E26C79}|AzureBlobProject\\AzureBlobProject.csproj|c:\\users\\udays\\onedrive\\desktop\\capgemini\\day60projects\\azureblobproject\\azureblobproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3628F13F-667E-40FB-8097-234AC8E26C79}|AzureBlobProject\\AzureBlobProject.csproj|solutionrelative:azureblobproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3628F13F-667E-40FB-8097-234AC8E26C79}|AzureBlobProject\\AzureBlobProject.csproj|c:\\users\\udays\\onedrive\\desktop\\capgemini\\day60projects\\azureblobproject\\azureblobproject\\models\\blobmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3628F13F-667E-40FB-8097-234AC8E26C79}|AzureBlobProject\\AzureBlobProject.csproj|solutionrelative:azureblobproject\\models\\blobmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3628F13F-667E-40FB-8097-234AC8E26C79}|AzureBlobProject\\AzureBlobProject.csproj|c:\\users\\udays\\onedrive\\desktop\\capgemini\\day60projects\\azureblobproject\\azureblobproject\\controllers\\containercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3628F13F-667E-40FB-8097-234AC8E26C79}|AzureBlobProject\\AzureBlobProject.csproj|solutionrelative:azureblobproject\\controllers\\containercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day60Projects\\AzureBlobProject\\AzureBlobProject\\Views\\Container\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AzureBlobProject\\Views\\Container\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3628F13F-667E-40FB-8097-234AC8E26C79}|AzureBlobProject\\AzureBlobProject.csproj|c:\\users\\udays\\onedrive\\desktop\\capgemini\\day60projects\\azureblobproject\\azureblobproject\\models\\containermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3628F13F-667E-40FB-8097-234AC8E26C79}|AzureBlobProject\\AzureBlobProject.csproj|solutionrelative:azureblobproject\\models\\containermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3628F13F-667E-40FB-8097-234AC8E26C79}|AzureBlobProject\\AzureBlobProject.csproj|c:\\users\\udays\\onedrive\\desktop\\capgemini\\day60projects\\azureblobproject\\azureblobproject\\services\\containerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3628F13F-667E-40FB-8097-234AC8E26C79}|AzureBlobProject\\AzureBlobProject.csproj|solutionrelative:azureblobproject\\services\\containerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3628F13F-667E-40FB-8097-234AC8E26C79}|AzureBlobProject\\AzureBlobProject.csproj|c:\\users\\udays\\onedrive\\desktop\\capgemini\\day60projects\\azureblobproject\\azureblobproject\\services\\icontainerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3628F13F-667E-40FB-8097-234AC8E26C79}|AzureBlobProject\\AzureBlobProject.csproj|solutionrelative:azureblobproject\\services\\icontainerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3628F13F-667E-40FB-8097-234AC8E26C79}|AzureBlobProject\\AzureBlobProject.csproj|c:\\users\\udays\\onedrive\\desktop\\capgemini\\day60projects\\azureblobproject\\azureblobproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3628F13F-667E-40FB-8097-234AC8E26C79}|AzureBlobProject\\AzureBlobProject.csproj|solutionrelative:azureblobproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlobService.cs",
+              "DocumentMoniker": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day60Projects\\AzureBlobProject\\AzureBlobProject\\Services\\BlobService.cs",
+              "RelativeDocumentMoniker": "AzureBlobProject\\Services\\BlobService.cs",
+              "ToolTip": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day60Projects\\AzureBlobProject\\AzureBlobProject\\Services\\BlobService.cs",
+              "RelativeToolTip": "AzureBlobProject\\Services\\BlobService.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAcwH4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T09:50:37.374Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddFile.cshtml",
+              "DocumentMoniker": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day60Projects\\AzureBlobProject\\AzureBlobProject\\Views\\Blob\\AddFile.cshtml",
+              "RelativeDocumentMoniker": "AzureBlobProject\\Views\\Blob\\AddFile.cshtml",
+              "ToolTip": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day60Projects\\AzureBlobProject\\AzureBlobProject\\Views\\Blob\\AddFile.cshtml",
+              "RelativeToolTip": "AzureBlobProject\\Views\\Blob\\AddFile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-01T09:56:44.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlobController.cs",
+              "DocumentMoniker": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day60Projects\\AzureBlobProject\\AzureBlobProject\\Controllers\\BlobController.cs",
+              "RelativeDocumentMoniker": "AzureBlobProject\\Controllers\\BlobController.cs",
+              "ToolTip": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day60Projects\\AzureBlobProject\\AzureBlobProject\\Controllers\\BlobController.cs",
+              "RelativeToolTip": "AzureBlobProject\\Controllers\\BlobController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T09:54:34.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day60Projects\\AzureBlobProject\\AzureBlobProject\\Views\\Container\\Create.cshtml",
+              "RelativeDocumentMoniker": "AzureBlobProject\\Views\\Container\\Create.cshtml",
+              "ToolTip": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day60Projects\\AzureBlobProject\\AzureBlobProject\\Views\\Container\\Create.cshtml",
+              "RelativeToolTip": "AzureBlobProject\\Views\\Container\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-01T09:47:56.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Manage.cshtml",
+              "DocumentMoniker": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day60Projects\\AzureBlobProject\\AzureBlobProject\\Views\\Blob\\Manage.cshtml",
+              "RelativeDocumentMoniker": "AzureBlobProject\\Views\\Blob\\Manage.cshtml",
+              "ToolTip": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day60Projects\\AzureBlobProject\\AzureBlobProject\\Views\\Blob\\Manage.cshtml",
+              "RelativeToolTip": "AzureBlobProject\\Views\\Blob\\Manage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-01T09:55:39.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IBlobService.cs",
+              "DocumentMoniker": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day60Projects\\AzureBlobProject\\AzureBlobProject\\Services\\IBlobService.cs",
+              "RelativeDocumentMoniker": "AzureBlobProject\\Services\\IBlobService.cs",
+              "ToolTip": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day60Projects\\AzureBlobProject\\AzureBlobProject\\Services\\IBlobService.cs",
+              "RelativeToolTip": "AzureBlobProject\\Services\\IBlobService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T09:49:49.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BlobModel.cs",
+              "DocumentMoniker": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day60Projects\\AzureBlobProject\\AzureBlobProject\\Models\\BlobModel.cs",
+              "RelativeDocumentMoniker": "AzureBlobProject\\Models\\BlobModel.cs",
+              "ToolTip": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day60Projects\\AzureBlobProject\\AzureBlobProject\\Models\\BlobModel.cs",
+              "RelativeToolTip": "AzureBlobProject\\Models\\BlobModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T09:49:02.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day60Projects\\AzureBlobProject\\AzureBlobProject\\Program.cs",
+              "RelativeDocumentMoniker": "AzureBlobProject\\Program.cs",
+              "ToolTip": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day60Projects\\AzureBlobProject\\AzureBlobProject\\Program.cs",
+              "RelativeToolTip": "AzureBlobProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T09:36:15.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day60Projects\\AzureBlobProject\\AzureBlobProject\\Views\\Container\\Index.cshtml",
+              "RelativeDocumentMoniker": "AzureBlobProject\\Views\\Container\\Index.cshtml",
+              "ToolTip": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day60Projects\\AzureBlobProject\\AzureBlobProject\\Views\\Container\\Index.cshtml",
+              "RelativeToolTip": "AzureBlobProject\\Views\\Container\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-01T09:46:24.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ContainerController.cs",
+              "DocumentMoniker": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day60Projects\\AzureBlobProject\\AzureBlobProject\\Controllers\\ContainerController.cs",
+              "RelativeDocumentMoniker": "AzureBlobProject\\Controllers\\ContainerController.cs",
+              "ToolTip": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day60Projects\\AzureBlobProject\\AzureBlobProject\\Controllers\\ContainerController.cs",
+              "RelativeToolTip": "AzureBlobProject\\Controllers\\ContainerController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwB0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T09:43:56.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ContainerModel.cs",
+              "DocumentMoniker": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day60Projects\\AzureBlobProject\\AzureBlobProject\\Models\\ContainerModel.cs",
+              "RelativeDocumentMoniker": "AzureBlobProject\\Models\\ContainerModel.cs",
+              "ToolTip": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day60Projects\\AzureBlobProject\\AzureBlobProject\\Models\\ContainerModel.cs",
+              "RelativeToolTip": "AzureBlobProject\\Models\\ContainerModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T09:42:48.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ContainerService.cs",
+              "DocumentMoniker": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day60Projects\\AzureBlobProject\\AzureBlobProject\\Services\\ContainerService.cs",
+              "RelativeDocumentMoniker": "AzureBlobProject\\Services\\ContainerService.cs",
+              "ToolTip": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day60Projects\\AzureBlobProject\\AzureBlobProject\\Services\\ContainerService.cs",
+              "RelativeToolTip": "AzureBlobProject\\Services\\ContainerService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAA2wDAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T09:38:56.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IContainerService.cs",
+              "DocumentMoniker": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day60Projects\\AzureBlobProject\\AzureBlobProject\\Services\\IContainerService.cs",
+              "RelativeDocumentMoniker": "AzureBlobProject\\Services\\IContainerService.cs",
+              "ToolTip": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day60Projects\\AzureBlobProject\\AzureBlobProject\\Services\\IContainerService.cs",
+              "RelativeToolTip": "AzureBlobProject\\Services\\IContainerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T09:38:19.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day60Projects\\AzureBlobProject\\AzureBlobProject\\appsettings.json",
+              "RelativeDocumentMoniker": "AzureBlobProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day60Projects\\AzureBlobProject\\AzureBlobProject\\appsettings.json",
+              "RelativeToolTip": "AzureBlobProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAADQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-01T09:34:33.375Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
